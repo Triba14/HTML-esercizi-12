@@ -400,7 +400,6 @@ hr {
 
 .features-column-left {
     background-color: #6339d9;
-    background-image: radial-gradient(circle at center, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0) 70%);
     color: #ffffff;
     padding: 2.5rem;
     display: flex;
